@@ -1,0 +1,36 @@
+SEO:
+  siteName: تابش الکتریک
+  siteTitle: فروشگاه اینترنتی لوازم الکتریکی
+  description: ارائه دهنده محصولات الکتریکی
+header:
+  topBar:
+    discriminant: true
+    value:
+      description: با توجه به نوسانات بازار، خرید از سایت موقتا امکان پذیر نیست.
+      buttonText: به صفحه اصلی بروید
+      buttonLink: /
+  navigationMenu:
+    - name: خانه
+      href: /
+      type: none
+    - name: فروشگاه
+      href: /store
+      type: none
+    - name: مجله
+      href: /blog
+      type: none
+  CTA: '09134372901'
+footer:
+  description: >
+    در صورتی که برای خرید هر یک از محصولات پرسشی دارید میتوانید با پشتیبانی سایت
+    درمیان بگذارید.
+
+    همچنین اگر محصولی مد نظر شما میباشد و در فروشگاه موجود نیست مشخصات کامل
+    محصول را برای ما بفرستید تا نسبت به تهیه آن اقدام شود.
+  socials:
+    - icon: /assets/footer/socials/0/icon.png
+      name: instagram
+      href: https://www.instagram.com/tabeshelecshop
+    - icon: /assets/footer/socials/1/icon.webp
+      name: telegram
+      href: https://www.telegram.com/tabeshelecshop
